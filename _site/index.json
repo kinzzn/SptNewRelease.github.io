@@ -1,0 +1,17 @@
+{
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | spotifyNewRelease",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | spotifyNewRelease",
+    "keywords": "Introduction SpoitfyNewRelease target to generate new release playlist under your account. Features Collect songs of your favourite aritsts and generate playlist Customize song time range Customize playlist name more... Permission Press submit when meet this page:"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "SptNewRelease.github.io | spotifyNewRelease",
+    "keywords": "SptNewRelease.github.io Spotify new release playlist generator, and more Get latest release playlist by yourself! New release notification on Spotify did not work well as usual. That's why this tool exist. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
